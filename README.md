@@ -1,2 +1,2 @@
-     ![Main page](ff.jpg)
+     ![Main page](https://github.com/andreyshushakov1ac/HtmlSimplePage/blob/main/ff.jpg)
      
